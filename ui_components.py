@@ -749,7 +749,7 @@ def create_ui(root, title_font, heading_font, btn_font, label_font, panel_color,
         banner_canvas.create_rectangle(width/2 - 500, 70, width/2 + 500, 77, 
                                      fill="#111122", outline="", stipple="gray50")
         banner_canvas.create_text(width/2, 75, 
-                             text="Team: Nguyễn Nguyên Toàn Khoa (22110044) | Nguyen Hoang Huy (22110036) | Nguyễn Lê Tùng Chi (22110013) | Nguyên Thành Tính (22110077)", 
+                             text="Team: Nguyễn Nguyên Toàn Khoa (22110044) | Nguyen Hoàng Huy (22110036) | Nguyễn Lê Tùng Chi (22110013) | Nguyên Thành Tính (22110077)", 
                              font=('Montserrat', 12), fill="#E0E4FF", anchor=CENTER)
         
         # Add horizontal divider line at the bottom with a glowing effect
