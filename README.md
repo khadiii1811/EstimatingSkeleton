@@ -79,14 +79,5 @@ Results can be viewed in the application and exported to PDF or Excel format.
 - Nguyễn Lê Tùng Chi (22110013)
 - Nguyen Thành Tính (22110077)
 
-# Human-Skeleton-Estimating
- Application Human Skeleton Estimating using image processing and pattern recognition
-Video demo link: https://youtu.be/DQVGjCHT1J4
-<br>This video is my Final Project (Image Processing Course) about: HUMAN SKELETON ESTIMATING FROM IMAGE (VIDEO) USING IMAGE PROCESSING AND PATTERN RECOGNITION TECHNIQUES <br>
-
-﻿# About project
-
-<h4>In this project we will use Image processing which performs some operations on an image, in order to get the human skeleton estimation from the image or frame (from video). But before that, we need to apply Pattern recognition so that the app will automatically detect human parts by using machine learning algorithms.</h4>
-
 
 
